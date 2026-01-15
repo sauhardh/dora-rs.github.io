@@ -133,7 +133,7 @@
     "description": "Example using Python ROS2",
     "website": "python-ros2-example",
     "preview": "https://www.aranacorp.com/wp-content/uploads/python-ros2.png",
-    "source": "https://github.com/dora-rs/dora/blob/main/examples/python-ros2-dataflow",
+    "source": "https://github.com/dora-rs/dora/tree/main/examples/ros2-bridge/python/turtle",
     "last_commit": "https://img.shields.io/github/last-commit/dora-rs/dora?path=examples%2Fpython-ros2-dataflow",
     "tags": [],
     "category": "ROS2"
@@ -143,7 +143,7 @@
     "description": "Example using Rust ROS2",
     "website": "rust-ros2-example",
     "preview": "https://robonomics.network/assets/static/cover.d57b2e8.268586f3596831daf0d2d0fa2c885458.jpg",
-    "source": "https://github.com/dora-rs/dora/blob/main/examples/rust-ros2-dataflow",
+    "source": "https://github.com/dora-rs/dora/tree/main/examples/ros2-bridge/rust/turtle",
     "last_commit": "https://img.shields.io/github/last-commit/dora-rs/dora?path=examples%2Frust-ros2-dataflow",
     "tags": [],
     "category": "ROS2"
@@ -153,7 +153,7 @@
     "description": "Example using C++ ROS2",
     "website": "c++-ros2-example",
     "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnC1cXYAAjFUjNAogVCAr8HrAmumbx9nEnhg&s",
-    "source": "https://github.com/dora-rs/dora/blob/main/examples/c++-ros2-dataflow",
+    "source": "https://github.com/dora-rs/dora/tree/main/examples/ros2-bridge/c%2B%2B/turtle",
     "last_commit": "https://img.shields.io/github/last-commit/dora-rs/dora?path=examples%2Fc%2b%2b-ros2-dataflow",
     "tags": [],
     "category": "ROS2"
