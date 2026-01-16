@@ -19,7 +19,7 @@ Then, create and activate a virtual environment:
 ```bash
 uv venv --seed -p 3.11
 source .venv/bin/activate  # Linux/macOS
-\.venv\Scripts\activate    # Windows
+.venv\Scripts\activate     # Windows
 ```
 
 Finally, install the Dora CLI:
