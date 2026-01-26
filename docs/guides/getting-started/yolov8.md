@@ -12,7 +12,7 @@ Let's add a `yolov8` object detection operator, that you can [find as an example
 
    ```bash
    conda create -n example_env python=3.11
-   conda activate test_env
+   conda activate example_env
    pip install -r https://raw.githubusercontent.com/dora-rs/dora/v0.3.6/examples/python-operator-dataflow/requirements.txt
    ```
 
@@ -76,7 +76,6 @@ Let's add a `yolov8` object detection operator, that you can [find as an example
 
    `on_event` methods is called when an event is received.
    There is currently 4 event types:
-
    - `STOP`: meaning that the operator was signalled to stop.
    - `INPUT`: meannig that an input was received.
      - You can use `dora_event['id']`, to get the id.
