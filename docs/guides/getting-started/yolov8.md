@@ -89,10 +89,10 @@ Let's add a `yolov8` object detection operator, that you can [find as an example
 3. Add an operator within the dataflow
 
    ```bash
-   wget https://raw.githubusercontent.com/dora-rs/dora/v0.3.6/examples/python-operator-dataflow/dataflow.yaml
+   wget https://raw.githubusercontent.com/dora-rs/dora/v0.3.6/examples/python-operator-dataflow/dataflow.yml
    ```
 
-   `dataflow.yaml`:
+   `dataflow.yml`:
 
    ```yaml {10-16,23}
    nodes:
